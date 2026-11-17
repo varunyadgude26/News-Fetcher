@@ -3,8 +3,8 @@
 .env.*
 
 # Virtual environments
-venv/
-.venv/
+env/
+.env/
 
 # Python cache files
 __pycache__/
